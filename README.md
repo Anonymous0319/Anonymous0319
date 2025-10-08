@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kelash malhi
 - 👀 A passionate Python developer and Data Science enthusiast
 - 🌱 I’m currently learning Data Science
-- 😄 Pronouns: kelash
+- 😄 Pronouns: kelaash
 
 <!---
 Anonymous0319/Anonymous0319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
